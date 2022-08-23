@@ -46,6 +46,7 @@ wandb
 lightning_logs/
 logs
 */training/logs
+*/training/*sweep.yaml
 flagged
 
 # Misc
